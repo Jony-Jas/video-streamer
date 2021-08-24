@@ -1,1 +1,1 @@
-# Video Streamer
+# Streamy - video streamer
