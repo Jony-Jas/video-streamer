@@ -24,6 +24,5 @@ Enjoy...!
 ![Screenshot 2021-08-24 154101](https://user-images.githubusercontent.com/74784363/130600380-104dc8a0-0a60-446b-918a-b35c15baa43d.png)
 
 #### Connect with me:
-* Instagram: https://www.instagram.com/jonyrockstar7/
 * Linkedin: https://www.linkedin.com/in/jony-jas-8888591bb/
 * Github: https://github.com/Jony-Jas/
